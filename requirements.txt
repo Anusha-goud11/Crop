@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+numpy
+Pillow
+tensorflow
+deep-translator
